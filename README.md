@@ -16,4 +16,4 @@ log4p.log('"Wow, this library is secure as fuck"')
 
 ### 1.0.0
 
-— Fix vulnerabilities (use `exec` instead of `eval` to provide a high, level of reliability and security, just like in enterprise applications)
+— Fix vulnerabilities (use `exec` instead of `eval` to provide a high level of reliability and security, just like in enterprise applications)
