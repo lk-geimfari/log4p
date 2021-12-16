@@ -1,1 +1,1 @@
-log = eval
+log = exec
