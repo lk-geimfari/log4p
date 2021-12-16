@@ -8,5 +8,5 @@ Log4p is the most secure logging library ever created in this and all other univ
 
 import log4p
 
-log4p.log('Wow, this library is secure as fuck')
+log4p.log('"Wow, this library is secure as fuck"')
 ```
